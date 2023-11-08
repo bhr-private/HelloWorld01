@@ -9,7 +9,7 @@
 
   <name>HelloWorld01 Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>http://helloworld-d7e866ddeaeb.azurewebsites.net/</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -69,7 +69,7 @@
               <configuration>
                   <schemaVersion>v2</schemaVersion>
                   <subscriptionId>8db9a596-7fac-4304-8339-d7e866ddeaeb</subscriptionId>
-                  <resourceGroup>learn</resourceGroup>
+                  <resourceGroup>learn-rg</resourceGroup>
                   <appName>HelloWorld-d7e866ddeaeb</appName>
                   <pricingTier>B1</pricingTier>
                   <region>westeurope</region>
